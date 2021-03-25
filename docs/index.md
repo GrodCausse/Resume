@@ -2,7 +2,7 @@
 layout: cv
 title: Gerard Causse's Resume
 ---
-# Gerard Causse
+# Gerard Causse is the man
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
