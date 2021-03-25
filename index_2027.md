@@ -34,7 +34,7 @@ __Pacific Northwest National Lab__, Richland, WA
 
 ### Data Science Lead
 
-`April 2027 - June 2027`
+`June 2027`
 __Westmark Credit Union__, Consultant
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
