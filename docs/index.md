@@ -2,8 +2,7 @@
 layout: cv
 title: Gerard Causse's Resume
 ---
-# Gerard Causse is the man
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Gerard Causse
 
 <div id="webaddress">
 <a href="datascience@byui.edu">caussegerard1994@gmail.com</a>
@@ -12,68 +11,62 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 | <a href="https://github.com/GrodCausse">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`Expected 2021`
-__Brigham Young University - Idaho__, Rexburg, ID
+_________________________________________________
 
-- 3.0 Major GPA
+<p style='text-align: right;'> **Graduation: (Expected July 2022)** </p>
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+**Bachelor’s in Data Science** 
+*Brigham Young University-Idaho*						    *Rexburg, ID*
+•	Classes taken include Statistics, Graphical Representation, Technical Communication, and Business
+•	Also taken several programming classes such as R, C++, and Lisp
 
 
-## Service and Work History
+## Tools
 
-`2025-2027`
-__Math Tutor__, LDSBC
+_______________________________________________
 
+ 
+•	R
+•	Computer Science
+•	Statistical Analysis
+•	Dual Citizenship (USA and France)
 
-`2023-2025`
-__Service Missionary__, South Africa
+•	Differential Equations
+•	Will Relocate
+•	Graphical Representation
+•	Data Cleaning
+•	Linear Algebra
+•	Technical Communication
+•	Data Analytics
+•	Multivariable Calculus 
+## Projects
+
+_________________________________________________________
+
+Prime Number Generator								        20 Hours
+Brigham Young University-Idaho 							    Rexburg, ID
+•	Designed a Lisp program that would generate a random prime number within a range of a million. 
+•	The program also provides the odds that the number generated is not actually prime, averaging around less than 1.00*10^-282 percent chance of a false prime number
+Day Care Fine Data Analysis								       20 Hours
+Brigham Young University-Idaho 							    Rexburg, ID
+•	Analysis on day cares in Israel implementing fines for late pickup, but canceled shortly into implementation, no reason why was given however
+•	Analysis strongly suggest that implementing fines increased number of late pickups
+Asteroids Game								            	       15 Hours
+Brigham Young University-Idaho 							    Rexburg, ID
+•	Recreated the 1979 Atari video game using C++ 
+
+## Work
+
+_______________________________________________________
+
+Wal-Mart Employee (Personal Shopper)			                 August 2020-January 2020
+Wal-Mart										Tucson, AZ
+•	Worked with a team to maintain the store, tended to many different jobs
+•	Had to manage myself, had to balance many tasks at once efficiently 
+
 
 
 
