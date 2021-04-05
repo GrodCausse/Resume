@@ -44,7 +44,7 @@ _______________________________________________
 •	Multivariable Calculus 
 ## Projects
 
-_________________________________________________________
+________________________________________________________
 
 Prime Number Generator								        20 Hours
 Brigham Young University-Idaho 							    Rexburg, ID
