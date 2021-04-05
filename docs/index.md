@@ -58,14 +58,6 @@ Asteroids Game								            	       15 Hours
 Brigham Young University-Idaho 							    Rexburg, ID
 •	Recreated the 1979 Atari video game using C++ 
 
-## Work
-
-_______________________________________________________
-
-Wal-Mart Employee (Personal Shopper)			                 August 2020-January 2020
-Wal-Mart										Tucson, AZ
-•	Worked with a team to maintain the store, tended to many different jobs
-•	Had to manage myself, had to balance many tasks at once efficiently 
 
 
 
