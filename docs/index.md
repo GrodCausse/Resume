@@ -11,51 +11,32 @@ title: Gerard Causse's Resume
 | <a href="https://github.com/GrodCausse">GitHub</a>
 </div>
 
-
 ## Education
 
-_________________________________________________
-
-<p style='text-align: right;'> **Graduation: (Expected July 2022)** </p>
-
-**Bachelor’s in Data Science** 
-*Brigham Young University-Idaho*						    *Rexburg, ID*
+**Bachelor’s in Data Science** *Graduation: (Expected July 2022)*
+**Brigham Young University-Idaho** *Rexburg, ID*
 •	Classes taken include Statistics, Graphical Representation, Technical Communication, and Business
-•	Also taken several programming classes such as R, C++, and Lisp
-
+•	Also taken several programming classes such as R, C++, and Python
 
 ## Tools
-
-_______________________________________________
-
  
-•	R
-•	Computer Science
-•	Statistical Analysis
-•	Dual Citizenship (USA and France)
+ | Data Science | Mathematics | Business and Other|
+ |:-------------|:------------|:---------|
+ | R            | Linear Algebra | Technical Communication |
+ | Python | Statistical Analysis | Excel |
+ | Data Analytics | Multivariable Calculus  | Dual Citizenship (USA and France) |
+ | Data Cleaning | Differential Equations | Fluent in French |
+ | Machine Learning | Linear and Logistic Regression | Business Analytics |
 
-•	Differential Equations
-•	Will Relocate
-•	Graphical Representation
-•	Data Cleaning
-•	Linear Algebra
-•	Technical Communication
-•	Data Analytics
-•	Multivariable Calculus 
 ## Projects
 
-________________________________________________________
-
-Prime Number Generator								        20 Hours
-Brigham Young University-Idaho 							    Rexburg, ID
+**Prime Number Generator** *20 Hours*
 •	Designed a Lisp program that would generate a random prime number within a range of a million. 
 •	The program also provides the odds that the number generated is not actually prime, averaging around less than 1.00*10^-282 percent chance of a false prime number
-Day Care Fine Data Analysis								       20 Hours
-Brigham Young University-Idaho 							    Rexburg, ID
+**Day Care Fine Data Analysis** *20 Hours*
 •	Analysis on day cares in Israel implementing fines for late pickup, but canceled shortly into implementation, no reason why was given however
 •	Analysis strongly suggest that implementing fines increased number of late pickups
-Asteroids Game								            	       15 Hours
-Brigham Young University-Idaho 							    Rexburg, ID
+**Asteroids Game** *15 Hours*
 •	Recreated the 1979 Atari video game using C++ 
 
 
